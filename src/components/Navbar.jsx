@@ -29,15 +29,12 @@ const Navbar = () => {
               href="#"
               className="text-3xl bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent dark:text-cyan-500 max-sm:text-2xl"
             >
-              {"<Dhairya/>"}
+              {"<Piyush/>"}
             </a>
           </div>
           <div className="NAVLINKS text-[20px] translate-x-[80px] max-sm:hidden flex gap-12 text-[#00040f] dark:text-[#e1e1e1] ">
             <a href="#about" className=" hover:text-cyan-500">
               Home
-            </a>
-            <a href="#experience" className="hover:text-cyan-500">
-              Experience
             </a>
             <a href="#education" className="hover:text-cyan-500 ">
               Education

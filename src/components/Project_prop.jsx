@@ -30,6 +30,8 @@ const Project_prop = (props) => {
                 {props.tailwindcss}
                 {props.react}
                 {props.vite}
+                {props.node}
+                {props.mongo}
               </div>
             </div>
           </div>
